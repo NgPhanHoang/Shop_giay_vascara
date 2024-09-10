@@ -1,0 +1,1036 @@
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+F:\BTL_ASP\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+C:\Users\Admin\Downloads\ShopGiayOnline\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.AssemblyReference.cache
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.AssemblyReference.cache
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+E:\LTUD CSDL Web\btl\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csprojAssemblyReference.cache
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+D:\ASP.NET\BTL\demo_28_11\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.AssemblyReference.cache
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+E:\ASP.NET\btl\nam\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+C:\Users\Admin\Downloads\ShopGiayOnline (1)\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hi\Desktop\Thư mục mới\Nhom6_Project\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csprojResolveAssemblyReference.cache
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csprojResolveAssemblyReference.cache
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+C:\Users\hi\Desktop\Thư mục mới\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+C:\Users\hi\Desktop\Thư mục mới (2)\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll.config
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\ShopGiayOnline.pdb
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.exe.config
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csc.rsp
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.exe.config
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\csi.rsp
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.AppContext.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Console.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Http.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Net.Sockets.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.ValueTuple.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.exe.config
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\vbc.rsp
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Authorize.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\WebGrease.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\CsvHelper.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\EntityFramework.SqlServer.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.Bcl.HashCode.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\PagedList.Mvc.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Buffers.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Memory.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Numerics.Vectors.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Threading.Tasks.Extensions.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Helpers.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Mvc.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Optimization.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.Razor.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Deployment.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\System.Web.WebPages.Razor.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Newtonsoft.Json.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Antlr3.Runtime.pdb
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.AssemblyReference.cache
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CoreCompileInputs.cache
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.csproj.CopyComplete
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.dll
+D:\HK5-năm 3\Nhom15_Vascara\demo_LTW\ShopGiayOnline\ShopGiayOnline\obj\Debug\ShopGiayOnline.pdb
